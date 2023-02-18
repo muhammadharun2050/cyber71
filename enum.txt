@@ -1,6 +1,8 @@
-$ reconftw //git tools
+$ reconftw //git tools, for recone
 $ tmux // it running backgriund terminal when your pc off.
     $tmux new -s test // "test" এইখানে আমরা যেকোনো নাম দিতে পারি। //start sesssion
     $ tmux ls           // for see sesssion
     $ tmux a -t (session_name)  // যেখানে আমাদের কাজ stop হয়েছিল, সেখান থেকে দেখাবে।
-    $  tmux kill-session -t (session_name) // for kill session
+    $ tmux kill-session -t (session_name) // for kill session
+    $ tmux attach -t (session_name)     // for working here
+    
