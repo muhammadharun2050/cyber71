@@ -1,0 +1,3 @@
+
+https://raw.githubusercontent.com/unethicalnoob/BBHTv2/master/bbhtv2.sh
+https://colab.research.google.com/notebooks/empty.ipynb
