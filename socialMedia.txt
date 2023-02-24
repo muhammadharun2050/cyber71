@@ -1,0 +1,36 @@
+$ go idcard website
+$Please Verify your Facebook Information: https://mbasic.facebook.com/help/contact/199052956872279
+Report Something on Facebook: https://mbasic.facebook.com/help/contact/274459462613911
+Email address already in use: https://mbasic.facebook.com/help/contact/255904741169641
+Security Disabled: https://mbasic.facebook.com/help/contact/313733425335072
+https://mbasic.facebook.com/help/contact/260749603972907 [My Personal Account was Disabled]
+Confirm your Identity: https://mbasic.facebook.com/help/contact/351277868234354
+Confirm your Identity with Facebook: https://mbasic.facebook.com/help/contact/183000765122339
+Confirm Your Identity: https://mbasic.facebook.com/help/contact/183190208381429
+Confirm Your Identity with an ID: https://mbasic.facebook.com/help/contact/319547548123767
+Disabled - Multiple Accounts: https://mbasic.facebook.com/help/contact/167692083333796
+https://mbasic.facebook.com/help/contact/122145551250439 [Disabled - Ineligible]
+https://mbasic.facebook.com/help/contact/1553947421490701 [Disabled - Ineligible]
+Disabled - Ineligible: https://mbasic.facebook.com/help/contact/269030579858086
+Disabled - Ineligible: https://mbasic.facebook.com/help/contact/317389574998690
+My Name Wasn't Accepted - Sign Up: https://mbasic.facebook.com/help/contact/237843336274237
+Report a Login Issue: https://mbasic.facebook.com/help/contact/357439354283890
+Unknown - 01: https://mbasic.facebook.com/help/contact/1417759018475333
+Unknown - 02: https://mbasic.facebook.com/help/contact/391012360910186
+My Personal Account Was Disabled: https://m.facebook.com/help/contact/2332108630404340
+Haven't received confirmation email: https://m.facebook.com/help/contact/221689587951755
+Security checks preventing login: https://m.facebook.com/help/contact/179049432194862
+Personal Data Requests: https://www.facebook.com/help/contact/166828260073047
+Regain Access to your Facebook Account: https://mbasic.facebook.com/help/contact/1062444770553751
+Login Approval Problem Appeal: https://mbasic.facebook.com/help/contact/1784422035128779
+Report an Issue with Facebook Mobile Texts: https://mbasic.facebook.com/help/contact/352512044767949
+My personal account has been memorialised: https://m.facebook.com/help/contact/292558237463098
+Facebook Blocks Appeal: https://m.facebook.com/help/contact/571927962827151
+Copyright Report form: https://m.facebook.com/help/contact/1758255661104383
+Unable To Add Someone To A Group Report form: https://m.facebook.com/help/contact/331166883600805
+Unable to Delete a Group Report form: https://m.facebook.com/help/contact/261747157238650
+Report an Unavailable Group or Event Report form: https://m.facebook.com/help/contact/157461604368161
+Report a Page Unavailable Error Report form: https://m.facebook.com/help/contact/357161520978587
+Feedback about Facebook Page: https://m.facebook.com/help/contact/306836472662147
+Appeal Page Name Change Request: https://mbasic.facebook.com/help/contact/285180098481281
+Report a Problem with Facebook: https://mbasic.facebook.com/bugnub
