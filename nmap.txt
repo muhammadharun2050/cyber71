@@ -1,0 +1,5 @@
+tools:
+nmap //github tools
+rustscan //github tools
+ping //github tools
+https://scanfactory.io/ // for find cve // cve search korar jnno amake lekte hobe : -> cve-(সিভি নেম)
