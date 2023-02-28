@@ -2,4 +2,6 @@ tools:
 nmap //github tools
 rustscan //github tools
 ping //github tools
-https://scanfactory.io/ // for find cve // cve search korar jnno amake lekte hobe : -> cve-(সিভি নেম)
+https://scanfactory.io/ // for find cve // cve search korar jnno amake lekte hobeclear : -> cve-(সিভি নেম)
+$ to search somehtime from specefic directory : ls /usr/share/nmap/script/ | grep "ssh"
+$nmap --script scripts (script-name) ip/website -oA | tree -a nmap
