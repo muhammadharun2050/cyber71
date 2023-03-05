@@ -7,6 +7,6 @@ $ to search somehtime from specefic directory : ls /usr/share/nmap/script/ | gre
 $nmap --script scripts (script-name) ip/website -oA | tree -a nmap
 যদি কমান্ড মনে না থাকে , তাহলে নিচের tools টার মাধ্যমে আমরা সহজে সকল scan করতে পারি।
 $ আমরা যদি অনেক গুলো script একই সাথে চালাতে চাই তাহলে নিচের মত করে দিতে পারি
-    nmap --script=ssh-*  // মানে সকল ssh script আমরা ঐ target website/ip তে apply করবো।
+    nmap --script=ssh-* (ip/website) // মানে সকল ssh script আমরা ঐ target website/ip তে apply করবো।
 $ nmapAutometor   // github tools
 $https://github.com/m0rtem/CloudFail.git // cloudfail tools use for cloudflare bypass
