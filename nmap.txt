@@ -9,4 +9,5 @@ $nmap --script scripts (script-name) ip/website -oA | tree -a nmap
 $ আমরা যদি অনেক গুলো script একই সাথে চালাতে চাই তাহলে নিচের মত করে দিতে পারি
     nmap --script=ssh-* (ip/website) // মানে সকল ssh script আমরা ঐ target website/ip তে apply করবো।
 $ nmapAutometor   // github tools
+    ./nmapAutomaor.sh -H website.com -t All
 $https://github.com/m0rtem/CloudFail.git // cloudfail tools use for cloudflare bypass
