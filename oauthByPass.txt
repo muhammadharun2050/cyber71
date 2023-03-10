@@ -1,3 +1,4 @@
-$ oauth code bypass করার জন্য একবারে নিচে একটি ১ দিতে পারি।
+mathod-1: $ oauth code bypass করার জন্য একবারে নিচে একটি ১ দিতে পারি।
 $cache-contro থাকলে bruteforce করা যায় না।
+mathod-2: $ 
 $ five way bypass oauth: https://www.youtube.com/watch?v=LYDTnkCurU0&ab_channel=Y0giSec
