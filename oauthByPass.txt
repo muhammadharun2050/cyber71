@@ -1,4 +1,7 @@
 mathod-1: $ oauth code bypass করার জন্য একবারে নিচে একটি ১ দিতে পারি।
 $cache-contro থাকলে bruteforce করা যায় না।
-mathod-2: $ 
+
+mathod-2: $ আমরা একান্ট খোলার সময় নাম্বার দিয়ে varify করতে হয়। সে ক্ষেত্রে একটা কোর্ড পাঠায় আমাদের নাম্বার এ । আমরা সেটি বাইপাস করার জন্য কোর্ড এর জায়গায় একটি একটি ভুল কোর্ড দিয়ে intercept করবো। তারপর json response এর ভিতর true থাকলে false করে দিব।
+
+mathod-3: $ 
 $ five way bypass oauth: https://www.youtube.com/watch?v=LYDTnkCurU0&ab_channel=Y0giSec
